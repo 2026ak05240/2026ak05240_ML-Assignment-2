@@ -12,7 +12,7 @@ The objective of this assignment is to train, evaluate, and deploy five machine 
 
 ## c. GitHub Repository Link
 - **GitHub Repository**: `https://github.com/2026ak05240/2026ak05240_ML-Assignment-2`
-- **Live Streamlit App**: `https://2026ak05240ml-assignment-2-9xz63sjbbpuhr5krzy7o6o.streamlit.app`
+- **Live Streamlit App**: `https://2026ak05240ml-assignment-2-9xz63sjbbpuhr5krzy7o6o.streamlit.app/`
 
 ## d. Models Used & Evaluation Metrics Comparison
 
